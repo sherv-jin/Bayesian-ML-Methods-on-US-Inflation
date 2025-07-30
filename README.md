@@ -1,6 +1,6 @@
 # Bayesian-ML-Methods-on-US-Inflation
 
-# Project Overview
+# Project Overview:
 
 Forecasting inflation is crucial for monetary policy, investment strategies, and economic planning. In this notebook, we:
 
@@ -21,7 +21,7 @@ Forecasting inflation is crucial for monetary policy, investment strategies, and
 | **Hidden Markov State Switching Model**| A regime-switching model capturing different inflation dynamics across economic states.      |
 | **Sparse Regression with Horseshoe Prior** | A Bayesian regression technique promoting sparsity using the horseshoe prior.             |
 
-# Output
+# Output:
 
 Models are evaluated using:
 
