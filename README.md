@@ -7,8 +7,9 @@ Forecasting inflation is crucial for monetary policy, investment strategies, and
 - Import and clean CPI and macroeconomic indicators data.
 - Engineer relevant features.
 - Apply and evaluate several vanilla and bayesian regression models.
-- Compare model performance using RMSE and R² metrics.
+- Compare model performance using RMSE.
 - Visualize actual vs. predicted CPI values.
+- Show feature importance for methods that introduce regularisation
 
 # Models Used:
 
